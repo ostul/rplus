@@ -1,0 +1,1 @@
+exports.TodoPage = require('./cypress/page_opjects/todo-page').TodoPage
